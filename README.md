@@ -1,4 +1,4 @@
-# Exam-pointer
+# Exam-pointers - Web Frameworks in JavaScript
 
 Följande är en lista på saker som kan komma att dyka upp på den skriftliga examinationen. Dock ska ni inte betrakta denna lista som tillräcklig för att klara tentan. Även fast man förstår de individuella delarna var för sig så måste man ändå kunna använda koncepten tillsammans i ordentliga exempel för klara av tentan i sin helhet.
 
